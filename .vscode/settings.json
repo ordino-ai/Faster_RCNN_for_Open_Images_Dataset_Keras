@@ -1,0 +1,6 @@
+{
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\system32\\cmd.exe",
+  "python.linting.pylintEnabled": true,
+  "python.pythonPath": "D:\\Anaconda\\envs\\OBD_RCNN\\python.exe",
+  "python.linting.enabled": true,
+}
